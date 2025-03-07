@@ -1,7 +1,3 @@
-Here’s a concise yet well-structured README for your project:  
-
----
-
 # SQL-Based Customer Segmentation Using RFM Analysis  
 
 ## 📌 Project Overview  
